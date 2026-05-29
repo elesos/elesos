@@ -14,15 +14,14 @@
 
 ## 👋 关于我
 
-中文 AI 副业玩家 / Factory Droid 重度玩家 / Claude Code & Obsidian 工作流构建者。
+AI 副业玩家 
 
-- 🛠️ **正在做** — 让 AI Coding Agent 的 Skills 跨平台管理变简单
-- 🌱 **正在玩** — Factory Droid 多账号工作流、Claude Skills 工程化、飞书 CLI 工具链
+- 🛠️ **正在做** — 让Skills管理, MCP管理, AI工具多配置变简单
 - 📝 **正在写** — Obsidian → 公众号 / X / 知乎 多平台分发工作流
 - 💬 **聊聊** — AI 工具开发、Skills 生态、独立开发副业
 - 🌐 **个人主页** — [github.com/elesos](https://github.com/elesos/)
-- 🐦 **X / Twitter** — [@iamzhihui](https://x.com/iamzhihui)
-- 📫 **邮箱** — [elesos@gmail.com](mailto:elesos@gmail.com)
+- 🐦 **X / Twitter** — [@Awesome_AI_News](https://x.com/Awesome_AI_News)
+- 📫 **邮箱** — [hnrayer@gmail.com](mailto:hnrayer@gmail.com)
 
 ---
 
@@ -32,63 +31,26 @@
 <tr>
 <td width="50%" valign="top">
 
-### ⭐ [skills-manage](https://github.com/elesos/skills-manage)
-[![Stars](https://img.shields.io/github/stars/elesos/skills-manage?style=social)](https://github.com/elesos/skills-manage)
+### ⭐ [starrtc](https://github.com/starrtc)
+[![Stars](https://img.shields.io/github/stars/starrtc/starrtc-android-demo?style=social)](https://github.com/starrtc/starrtc-android-demo)
 
-跨 **20+ AI Coding 平台**(Claude Code / Cursor / Gemini CLI / Codex)的 Skills 集中管理桌面应用。
+RTC 工具。
 
-`TypeScript` `Tauri` `Desktop`
+`C++` `C` 
 
 </td>
 <td width="50%" valign="top">
 
-### ⭐ [happy-claude-skills](https://github.com/elesos/happy-claude-skills)
-[![Stars](https://img.shields.io/github/stars/elesos/happy-claude-skills?style=social)](https://github.com/elesos/happy-claude-skills)
-
-精心整理的 **Claude Code Skills 合集**——飞书、Obsidian、内容创作工作流一网打尽。
-
-`Skills` `Claude Code` `Workflow`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### ⭐ [awesome-connected-cli](https://github.com/elesos/awesome-connected-cli)
-[![Stars](https://img.shields.io/github/stars/elesos/awesome-connected-cli?style=social)](https://github.com/elesos/awesome-connected-cli)
 
-**Connected CLI 工具精选清单**——数据采集、AI 处理、自动化输出全链路。
+### 🌐 [Blog](https://github.com/elesos/elesos.github.io)
 
-`Awesome` `CLI` `Automation`
-
-</td>
-<td width="50%" valign="top">
-
-### ⭐ [droid-account-manage](https://github.com/elesos/droid-account-manage)
-[![Stars](https://img.shields.io/github/stars/elesos/droid-account-manage?style=social)](https://github.com/elesos/droid-account-manage)
-
-**Factory Droid 多账号管理**——自动切换、用量统计、配额监控。
-
-`Rust` `Tauri` `Desktop`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 [obsidian-ai-vault-template](https://github.com/elesos/obsidian-ai-vault-template)
-[![Stars](https://img.shields.io/github/stars/elesos/obsidian-ai-vault-template?style=social)](https://github.com/elesos/obsidian-ai-vault-template)
-
-AI 时代的 **Obsidian 知识库模板**——PARA + Zettelkasten + 35 个 Skills + 多平台分发。
-
-`Obsidian` `AI` `Knowledge`
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 [zhihui-site](https://github.com/elesos/zhihui-site)
-
-志辉个人主页 · TanStack Start + Cloudflare Workers · mkfast-template B 工坊方案。
+个人主页 · TanStack Start + Cloudflare Workers · mkfast-template B 工坊方案。
 
 `TanStack` `Cloudflare` `Personal`
 
@@ -143,8 +105,8 @@ AI 时代的 **Obsidian 知识库模板**——PARA + Zettelkasten + 35 个 Skil
 ### 💡 如果你也在玩 Factory Droid / Claude Code、做 AI 副业,欢迎来 Follow 我
 
 [![Website](https://img.shields.io/badge/-Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/elesos/)
-[![X](https://img.shields.io/badge/-@iamzhihui-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/iamzhihui)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elesos@gmail.com)
+[![X](https://img.shields.io/badge/-@Awesome_AI_News-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Awesome_AI_News)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hnrayer@gmail.com)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer)
 
